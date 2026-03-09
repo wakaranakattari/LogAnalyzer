@@ -1,0 +1,17 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!-- Log Level Colors -->
+    <SolidColorBrush x:Key="TraceColor" Color="Gray"/>
+    <SolidColorBrush x:Key="DebugColor" Color="Blue"/>
+    <SolidColorBrush x:Key="InfoColor" Color="Black"/>
+    <SolidColorBrush x:Key="WarningColor" Color="Orange"/>
+    <SolidColorBrush x:Key="ErrorColor" Color="Red"/>
+    <SolidColorBrush x:Key="CriticalColor" Color="DarkRed"/>
+    
+    <!-- UI Colors -->
+    <SolidColorBrush x:Key="BackgroundColor" Color="#F5F5F5"/>
+    <SolidColorBrush x:Key="BorderColor" Color="#CCCCCC"/>
+    <SolidColorBrush x:Key="HeaderBackground" Color="#E0E0E0"/>
+    
+</ResourceDictionary>
